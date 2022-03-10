@@ -5,4 +5,7 @@ Sou Rafael Silva, desenvolvedor de sistemas Web 🌐
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaelkaperski@gmail.com)
 [![zap](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5511983743416)
 
+</br>
 
+Tecnologias: </br>
+https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white

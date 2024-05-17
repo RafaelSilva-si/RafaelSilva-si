@@ -2,7 +2,6 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-FF9800?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp)](https://www.linkedin.com/in/rafael-silva-53474720b/)
 [![Email](https://img.shields.io/badge/Gmail-FF9800?style=flat-square&amp;&logo=gmail&logoColor=white)](mailto:rafaelkaperski@gmail.com)
 [![zap](https://img.shields.io/badge/WhatsApp-FF9800?style=flat-square&amp;&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5511983743416)
-[![zap](https://img.shields.io/badge/HackerRank-FF9800?style=flat-square&amp;&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/rafaelkaperski)
 
 ## Sou Rafael Silva, desenvolvedor de sistemas Web 🌐
 

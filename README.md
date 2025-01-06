@@ -16,7 +16,7 @@
 
 </br>
 
-* 👩‍💻 Desenvolvedor Fullstack na [@E-commerce BR](https://www.ecommercebrasil.com.br/)
+* 👩‍💻 Desenvolvedor Fullstack na [@Meta](https://meta.com.br/)
 * 🎓 Graduado em Sistemas de informação
 * 🌐 Apaixonado por desenvolvimento de softwares
 * 💡 Gosto de um bom desafio

@@ -5,8 +5,6 @@ Atualmente focado em **arquitetura cloud e serverless** para criar soluções es
 
 ---
 
-## 🚀 Portfólio AWS  
-
 ## 🛠️ Tech Stack  
 - **Backend**: Node.js, Express, NestJS  
 - **Frontend**: React, Next.js  
